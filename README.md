@@ -1,2 +1,2 @@
 # Python-3-Bootcamp-Course 
-## Exercises from the Complete Python 3 Bootcamp course
+## Exercises and Projects from the Complete Python 3 Bootcamp course
